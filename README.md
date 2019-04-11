@@ -3,4 +3,4 @@
 
 Aqui existem os excercicios do Play, das aulas TP e os testes resolvidos.
 
-Professor: Let's talk about C
+Professor: I'm not a pervert
